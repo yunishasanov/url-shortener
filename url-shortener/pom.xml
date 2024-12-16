@@ -101,8 +101,8 @@
             </goals>
             <configuration>
               <timestampedReports>false</timestampedReports>
-<!--              <mutationThreshold>100</mutationThreshold>-->
-<!--              <coverageThreshold>100</coverageThreshold>-->
+              <mutationThreshold>100</mutationThreshold>
+              <coverageThreshold>100</coverageThreshold>
               <excludedClasses>
                 <param>com.dkb.urlshortener.dto.*</param>
                 <param>com.dkb.urlshortener.entity.*</param>
